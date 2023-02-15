@@ -1,0 +1,58 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Mn2Fe4Sn4 - QE'
+_cell_length_a                         5.353358
+_cell_length_b                         5.353376
+_cell_length_c                         19.836166
+_cell_angle_alpha                      89.999954
+_cell_angle_beta                       90.000145
+_cell_angle_gamma                      119.999901
+_cell_volume                           492.314805
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Mn1        1.0     0.496639     0.503357     0.113621    Uiso  ? Mn
+   Mn2        1.0     0.503350     0.496655     0.886306    Uiso  ? Mn
+   Mn3        1.0     0.496638     0.993267     0.113621    Uiso  ? Mn
+   Mn4        1.0     0.503350     0.006696     0.886307    Uiso  ? Mn
+   Mn5        1.0     0.006736     0.503363     0.113621    Uiso  ? Mn
+   Mn6        1.0     0.993307     0.496653     0.886307    Uiso  ? Mn
+   Fe1        1.0     0.158845     0.841153     0.447204    Uiso  ? Fe
+   Fe2        1.0     0.174402     0.825597     0.221571    Uiso  ? Fe
+   Fe3        1.0     0.158845     0.317691     0.447204    Uiso  ? Fe
+   Fe4        1.0     0.174400     0.348803     0.221570    Uiso  ? Fe
+   Fe5        1.0     0.682308     0.841155     0.447206    Uiso  ? Fe
+   Fe6        1.0     0.651198     0.825599     0.221570    Uiso  ? Fe
+   Fe7        1.0     0.825584     0.174416     0.778420    Uiso  ? Fe
+   Fe8        1.0     0.841179     0.158821     0.552886    Uiso  ? Fe
+   Fe9        1.0     0.825585     0.651175     0.778421    Uiso  ? Fe
+   Fe10       1.0     0.841178     0.682360     0.552886    Uiso  ? Fe
+   Fe11       1.0     0.348825     0.174416     0.778420    Uiso  ? Fe
+   Fe12       1.0     0.317638     0.158820     0.552885    Uiso  ? Fe
+   Sn1        1.0     0.000003     0.999997     0.105657    Uiso  ? Sn
+   Sn2        1.0     0.000001     0.000002     0.894254    Uiso  ? Sn
+   Sn3        1.0     0.666659     0.333328     0.439051    Uiso  ? Sn
+   Sn4        1.0     0.666669     0.333336     0.229571    Uiso  ? Sn
+   Sn5        1.0     0.333325     0.666665     0.770360    Uiso  ? Sn
+   Sn6        1.0     0.333337     0.666671     0.561112    Uiso  ? Sn
+   Sn7        1.0     0.999984     0.999999     0.331266    Uiso  ? Sn
+   Sn8        1.0     0.999996     0.999999     0.668777    Uiso  ? Sn
+   Sn9        1.0     0.666669     0.333343     0.662747    Uiso  ? Sn
+   Sn10       1.0     0.666667     0.333337     0.001932    Uiso  ? Sn
